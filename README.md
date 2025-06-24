@@ -90,9 +90,17 @@
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
 <pre><code class="language-sh">npm test
 </code></pre>
-<hr>
 <h3>Deployment</h3>
 <p>Live Deployment:</p>
 <pre><code class="language-sh">https://click-and-collect-1.onrender.com/auth/login
 </code></pre>
+<h3>ScreenShots:</h3>
+<p>Home Page:</p>
+<img width="900" alt="Screenshot 2025-06-24 at 1 30 57 PM" src="https://github.com/user-attachments/assets/46ce41c2-0bd9-4d63-b813-1f4d2f9d857e" />
+<p>Category & Brands:</p>
+<img width="900" alt="Screenshot 2025-06-24 at 1 31 23 PM" src="https://github.com/user-attachments/assets/a733080d-e68c-4da0-8a4d-b0bf2b95bc85" />
+<p>CheckOut:</p>
+<img width="900" alt="Screenshot 2025-06-24 at 1 32 02 PM" src="https://github.com/user-attachments/assets/1e1d3946-13e7-4a0b-9a47-c04347be564d" />
+
 <hr></div> 
+
