@@ -91,5 +91,8 @@
 <pre><code class="language-sh">npm test
 </code></pre>
 <hr>
-<div align="left" class=""><a href="#top">🌐 Demo</a></div>
-<hr></div> readme is this 
+<h3>Deployment</h3>
+<p>Live Deployment:</p>
+<pre><code class="language-sh">https://click-and-collect-1.onrender.com/auth/login
+</code></pre>
+<hr></div> 
