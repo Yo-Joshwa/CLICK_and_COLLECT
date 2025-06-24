@@ -5,6 +5,7 @@ import {
   ChevronLeftIcon,
   ChevronRightIcon,
   CloudLightning,
+  Footprints,
   LayoutPanelLeft,
   PawPrint,
   PlaneTakeoff,
@@ -31,7 +32,7 @@ const categoriesWithIcon = [
   { id: "women", label: "Women", icon: CloudLightning },
   { id: "kids", label: "Kids", icon: BabyIcon },
   { id: "accessories", label: "Accessories", icon: WatchIcon },
-  { id: "footwear", label: "Footwear", icon: UmbrellaIcon },
+  { id: "footwear", label: "Footwear", icon: Footprints },
 ];
 const brandsWithIcon = [
   { id: "nike", label: "Nike", icon: Check },
