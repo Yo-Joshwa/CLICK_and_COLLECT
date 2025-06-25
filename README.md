@@ -41,8 +41,8 @@
 </ul>
 <hr>
 <h2>Overview</h2>
-<p>CLICK_and_COLLECT is a full-stack e-commerce platform designed to empower developers with a modular, scalable architecture. It combines a React-based frontend with a robust Node.js backend, featuring comprehensive API routes for orders, products, users, reviews, and cart management. The project emphasizes maintainability and developer experience through a rich component library built with Radix UI, Tailwind CSS, and Redux Toolkit, ensuring consistent, accessible interfaces. Seamless integrations with PayPal for payments and Cloudinary for media management streamline critical workflows. Whether you're building a new online store or enhancing an existing one, CLICK_and_COLLECT provides the tools and structure to accelerate development and deliver engaging shopping experiences.
-<strong>Why CLICK_and_COLLECT?</strong></p>
+<p>ClickCollect is a full-stack e-commerce platform designed to empower developers with a modular, scalable architecture. It combines a React-based frontend with a robust Node.js backend, featuring comprehensive API routes for orders, products, users, reviews, and cart management. The project emphasizes maintainability and developer experience through a rich component library built with Radix UI, Tailwind CSS, and Redux Toolkit, ensuring consistent, accessible interfaces. Seamless integrations with PayPal for payments and Cloudinary for media management streamline critical workflows. Whether you're building a new online store or enhancing an existing one, ClickCollect provides the tools and structure to accelerate development and deliver engaging shopping experiences.
+<strong>Why ClickCollect?</strong></p>
 <p>This project simplifies the complexities of modern e-commerce development. The core features include:</p>
 <ul class="list-disc pl-4 my-0">
 <li class="my-0">🧩 <strong>Component Library:</strong> Reusable, accessible UI components for a cohesive user experience.</li>
@@ -61,16 +61,16 @@
 <li class="my-0"><strong>Package Manager:</strong> Npm</li>
 </ul>
 <h3>Installation</h3>
-<p>Build CLICK_and_COLLECT from the source and install dependencies:</p>
+<p>Build ClickCollect from the source and install dependencies:</p>
 <ol>
 <li class="my-0">
 <p><strong>Clone the repository:</strong></p>
-<pre><code class="language-sh">❯ git clone https://github.com/Yo-Joshwa/CLICK_and_COLLECT
+<pre><code class="language-sh">❯ git clone https://github.com/Yo-Joshwa/ClickCollect
 </code></pre>
 </li>
 <li class="my-0">
 <p><strong>Navigate to the project directory:</strong></p>
-<pre><code class="language-sh">❯ cd CLICK_and_COLLECT
+<pre><code class="language-sh">❯ cd ClickCollect
 </code></pre>
 </li>
 <li class="my-0">
