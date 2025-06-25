@@ -13,7 +13,7 @@ function AuthLayout() {
       >
         <motion.div className="max-w-md space-y-6 text-center text-white p-1 rounded-3xl shadow-2xl bg-opacity-20 backdrop-blur-lg ">
           <h1 className="text-4xl font-extrabold tracking-tight drop-shadow-lg">
-            Welcome to Click & Collect
+            Welcome to ClickCollect
           </h1>
         </motion.div>
       </motion.div>
