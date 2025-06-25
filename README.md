@@ -1,7 +1,7 @@
 <div id="top" class="">
 
 <div align="center" class="text-center">
-<h1>CLICK_and_COLLECT</h1>
+<h1>ClickCollect</h1>
 <p><em>Seamless Shopping, Instant Pickup, Limitless Possibilities</em></p>
 
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/Yo-Joshwa/CLICK_and_COLLECT?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
