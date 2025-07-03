@@ -7,6 +7,7 @@ import { useDispatch } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 
 const initialState = {
+  role: "",
   userName: "",
   email: "",
   password: "",
@@ -35,7 +36,6 @@ function AuthRegister() {
     });
   }
 
-  // console.log(formData);
 
   return (
     <div className="mx-auto w-full max-w-md space-y-6">

@@ -11,7 +11,6 @@ import {
   PlaneTakeoff,
   Rss,
   ShirtIcon,
-  UmbrellaIcon,
   WatchIcon,
   Zap,
 } from "lucide-react";
