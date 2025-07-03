@@ -141,7 +141,7 @@ function ShoppingHeader() {
       <div className="flex h-16 items-center justify-between px-4 md:px-6">
         <Link to="/shop/home" className="flex items-center gap-2">
           <img src="/logo.svg" alt="logo" className="w-6 h-6"/>
-          <span className="font-bold">Click & Collect</span>
+          <span className="font-bold">ClickCollect</span>
         </Link>
         <Sheet>
           <SheetTrigger asChild>
