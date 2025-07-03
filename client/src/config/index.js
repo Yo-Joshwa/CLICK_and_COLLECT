@@ -5,7 +5,6 @@ export const registerFormControls = [
     placeholder: "Select your role",
     componentType: "select",
     options: [
-      { id: "placeholder", label: "Select Role" },
       { id: "customer", label: "Customer" },
       { id: "admin", label: "Admin" },
     ],
