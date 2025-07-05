@@ -81,14 +81,13 @@
 <pre><code class="language-sh">❯ npm install
 </code></pre>
 <h3>Usage</h3>
-<p>Run the project with:</p>
+<p>Run the project in server folder with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm start
+<pre><code class="language-sh">npm run dev
 </code></pre>
-<h3>Testing</h3>
-<p>ClickCollect uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
+<p>Run the project in client folder with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm test
+<pre><code class="language-sh">npm run dev
 </code></pre>
 <h3>Deployment</h3>
 <p>Live Deployment:</p>
